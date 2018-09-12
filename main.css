@@ -561,6 +561,11 @@ p.description {
   cursor:pointer;
 }
 
+.btn.btn-secondary {
+    width: 180px;
+    font-size: 80%;
+}
+
 @media screen and (min-width: 650px) {
   .nav-toggle,
   .nav-mobile-header {
