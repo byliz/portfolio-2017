@@ -519,6 +519,7 @@ p.description {
 }
 
 .nav-menu.open {
+  margin-top:34px!important;
   -webkit-transform: translate3D(0, 0, 0);
   transform: translate3D(0, 0, 0);
 }
