@@ -1,4 +1,4 @@
-# Mid-2017
+# mid-2017
 This was my first finished portfolio website project from mid to late 2017. I used a free template created by @taniarascia.
 
 <img src="https://lizberberena.com/img/firstportfoliofromscratchss.png" alt="Screenshot of First Portfolio Attempt" class="img-fluid"/>
