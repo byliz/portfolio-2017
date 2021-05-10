@@ -1,17 +1,11 @@
 # 2016
-This was my first finished portfolio website project from late 2016 or early 2017. I used a free template created by @taniarascia.
-
-<h4>Version 2.1.0 - Mid 2017</h4>
+This was my first finished portfolio website project from mid to late 2017. I used a free template created by @taniarascia.
 
 <img src="https://lizberberena.com/img/firstportfoliofromscratchss.png" alt="Screenshot of First Portfolio Attempt" class="img-fluid"/>
 
 <p>I think this is the earliest screenshot I have from my early attempts at making a website with a proper design from scratch. I tried to go with a minimalist modern design with lots of white space again, but I wasn't happy with the loose and sloppy way the pages behaved. In retrospect, the index page does look pretty cool, and if I only still had the source code I would share it with you over on my Github. In fact, I may try to remake it sometime. I do recall that I used bootstrap to center the elements on the page and make the buttons, so this places this design somewhere in mid to late 2017.</p>
 
-<h4 id="first-portfolio">Version 2.2.0 - Late 2017</h4>
-
 <img src="https://lizberberena.com/img/firstportfolio.png" alt="Screenshot of First Portfolio" class="img-fluid"/>
-
-<p class="caption"><a href="https://lizberberena.com/2016" target="_blank">Visit Site</a> • <a href="https://github.com/lizberberena/2016" target="_blank">Source Code</a></p>
 
 <p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank" rel="nofollow">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on her Github.</p>
 
