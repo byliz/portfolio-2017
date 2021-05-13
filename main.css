@@ -202,6 +202,7 @@ button.btn {
 button.btn:hover {
   background: #7100e2;
   color: #fff;
+  button:cursor!important;
 }
 
 @media screen and (min-width: 650px) {
